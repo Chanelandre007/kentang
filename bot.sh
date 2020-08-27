@@ -7,7 +7,7 @@ jika [ $ d  =  " y " ]:
 kemudian
    echo  " \ 033 [1; 93mMemuat \ 033 [90m ... \ 033 [1; 97m "
    tidur 2
-   termux-open " https://youtu.be/edE2zE6k-e8 "
+   termux-open " https://youtu.be/pL2sPrxLjPc "
 elif [ $ d  =  " t " ]:
 kemudian
    echo  " \ 033 [1; 93mBerikutnya \ 033 [90m ... \ 033 [1; 97m "
