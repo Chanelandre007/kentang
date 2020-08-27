@@ -1,4 +1,3 @@
-
 #! / system / bin / bash "
 bersih
 echo  " \ 033 [90m "
